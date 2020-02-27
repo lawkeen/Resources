@@ -1,0 +1,6 @@
+/Users/lyftyk/RiderProjects/Korop T.O. lesson 2/Korop T.O. lesson 2/bin/Debug/Korop_T.O._lesson_2.exe
+/Users/lyftyk/RiderProjects/Korop T.O. lesson 2/Korop T.O. lesson 2/bin/Debug/Korop_T.O._lesson_2.pdb
+/Users/lyftyk/RiderProjects/Korop T.O. lesson 2/Korop T.O. lesson 2/obj/Debug/Korop T.O. lesson 2.csprojAssemblyReference.cache
+/Users/lyftyk/RiderProjects/Korop T.O. lesson 2/Korop T.O. lesson 2/obj/Debug/Korop T.O. lesson 2.csproj.CoreCompileInputs.cache
+/Users/lyftyk/RiderProjects/Korop T.O. lesson 2/Korop T.O. lesson 2/obj/Debug/Korop_T.O._lesson_2.exe
+/Users/lyftyk/RiderProjects/Korop T.O. lesson 2/Korop T.O. lesson 2/obj/Debug/Korop_T.O._lesson_2.pdb
